@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Solid Blue Circle -->
+  <circle cx="200" cy="200" r="190" fill="#003b8e" />
+  
+  <!-- Thin White Inset Border -->
+  <circle cx="200" cy="200" r="180" fill="none" stroke="#ffffff" stroke-width="2.5" />
+
+  <!-- Texts -->
+  <!-- "MV" -->
+  <text x="200" y="160" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="900" font-size="110" fill="#ffffff" text-anchor="middle" letter-spacing="-1">MV</text>
+  
+  <!-- "PEST CONTROL" -->
+  <text x="200" y="225" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" font-size="34" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">PEST CONTROL</text>
+  
+  <!-- "TERMITE SPECIALIST" -->
+  <text x="200" y="270" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="300" font-size="18" fill="#ffffff" text-anchor="middle" letter-spacing="2">TERMITE SPECIALIST</text>
+</svg>
